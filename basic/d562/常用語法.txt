@@ -1,0 +1,6 @@
+terminal打開: ctrl + ~
+查看當前所在資料夾的內容: ls
+進入資料夾 basic: cd basic
+回到上層資料夾: cd ..
+執行 solve.py，並將 1.in 當作 stdin (標準輸入)傳入 python:
+    type 1.in | python solve.py
